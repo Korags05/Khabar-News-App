@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="background">#000000</color> <!-- Dark background color -->
+    <color name="onBackground">#FFFFFF</color> <!-- Color for text and other elements -->
     <color name="display_small">#FFFFFFFF</color>
     <color name="text_medium">#FFB0B3B8</color>
     <color name="text_title">#E4E6EB</color>
